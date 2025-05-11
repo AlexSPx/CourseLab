@@ -23,7 +23,7 @@
     "lodash": "^4.17.21",
     "next": "^12.0.7",
     "next-compose-plugins": "^2.2.1",
-    "next-i18next": "^10.5.0",
+    "next-i18next": "^13.0.0",
     "next-pwa": "^5.4.6",
     "next-sitemap": "^2.5.7",
     "pkg-dir": "^6.0.1",
